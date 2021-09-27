@@ -1,0 +1,51 @@
+Exercise 1: 'tafeltjes van'
+Write a program that takes 2 numbers as input. The first number is a base number, and the second number is a limit. For every number between 0 and the second number, print out the base number multiplied by that number.
+
+Example:
+
+Base: 3
+Limit: 5
+
+0
+3
+6
+9
+12
+15
+
+Exercise 2: Pyramid
+Write a program that takes one number as an input. The output of this program will be a pyramid, and the pyramid will be as large as the input number.
+
+HINT: To add a character to the end of a string, you can use the following logic:
+stringVar = stringVar + "#" 
+
+Example:
+
+Inputno: 3
+
+#
+##
+###
+
+Exercise 3: Fizzbuzz
+Write a program that takes 1 number as input. For every step in the program, print either 'fizz' if you can divide it by 3, 'buzz' if you can divide it by 5, and 'fizzbuzz' if you can divide it by both. Otherwise just print the number
+
+Example:
+
+Inputno: 15
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Buzz
+Fizz
+11
+Fizz
+13
+14
+Fizzbuzz
